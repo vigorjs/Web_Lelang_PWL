@@ -1,5 +1,5 @@
 # Web_Lelang_PWL
-Nama 		: Virgo Fajar Pamungkas
+Nama 		: Virgo Fajar Pamungkas | 
 NIM		: A11.2019.12289
 
 TUGAS AKHIR PWL :
